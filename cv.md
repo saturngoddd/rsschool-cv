@@ -1,9 +1,9 @@
 ## Arstanbekov Mairambek
-***
+
 
 ## My Contact Info
 
----
+
 * phone: +996703555431
 * email: lilsatoru@gmail.com
 * github: [saturngoddd](https://github.com/saturngoddd)
@@ -54,8 +54,8 @@ ____
 1. Russian
 2. English
 3. Kyrgyz
-----
-#### English
+
+### English
 
 * I've finished English courses and got certification. I've passed all my exams and finals with 93-100% score. (upper-intermediate level)
 
