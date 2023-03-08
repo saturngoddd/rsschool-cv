@@ -39,3 +39,12 @@ const fnArray = function (array, item) {
 
 console.log(fnArray(array, 4))
 ```
+### Education
+____
+
+* Sedondary educationg. #15 School. Bishkek, Kyrgyzstan
+
+### Experience
+----
+* I work as a translator at this moment
+* No experience as a Junior Front-end dev
