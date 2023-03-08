@@ -48,3 +48,14 @@ ____
 ----
 * I work as a translator at this moment
 * No experience as a Junior Front-end dev
+
+### Languages
+-----
+1. Russian
+2. English
+3. Kyrgyz
+----
+#### English
+
+* I've finished English courses and got certification. I've passed all my exams and finals with 93-100% score. (upper-intermediate level)
+
