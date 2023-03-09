@@ -1,2 +1,2 @@
 
-https://saturngoddd.github.io/rsschool-cv/cv
+https://saturngoddd.github.io/rsschool-cv/
