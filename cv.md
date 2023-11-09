@@ -43,7 +43,7 @@ console.log(fnArray(array, 4))
 ### Education
 ____
 
-* Sedondary educationg. #15 School. Bishkek, Kyrgyzstan
+* Secondary education. #15 School. Bishkek, Kyrgyzstan
 
 ### Experience
 ----
