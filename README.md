@@ -1,1 +1,1 @@
-https://saturngoddd.github.io/rsschool-cv/
+https://saturngoddd.github.io/rsschool-cv/см
